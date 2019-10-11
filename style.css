@@ -1,0 +1,14 @@
+main {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#minsize, #maxsize {
+  display:block;
+}
+#numbersub, #palindrome {
+  display:inline-block;
+}
+tr, td {
+  border: 1px solid black;
+}
